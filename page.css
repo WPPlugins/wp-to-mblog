@@ -1,0 +1,8 @@
+#tform #say, #tform #message{width:580px; overflow:hidden}
+#tform #wordage{text-align:right}
+#tform #wordage span{font:24px Georgia; color:#690}
+#tform #wordage{float:right; width:200px}
+#tform fieldset p{margin-top:5px}
+#tform #submit{color:#EEF1EE; font-size:14px; font-weight:700; height:28px; line-height:28px; outline:none; text-align:center; width:89px; background:url("images/submit.png") 0 0 no-repeat; width:89px; height:28px; border:none; cursor:pointer;}
+#tform #submit:hover{background-position:0px -28px}
+#tform #submit:active{background-position:0px -56px}

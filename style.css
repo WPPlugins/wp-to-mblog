@@ -1,0 +1,18 @@
+.masking{width:300px; z-index:6001; position:absolute; display:none; background-color:#fff; border:4px solid #13455B; padding:20px; filter:alpha(opacity=90); -moz-opacity:0.90; opacity:0.90; -moz-border-radius:6px; -webkit-border-radius:6px; -moz-box-shadow:0 0 50px #ccc; -webkit-box-shadow:0 0 50px #ccc}
+.masking h2{background:url(images/info.png) 0 50% no-repeat; margin:0px; padding:10px 0 10px 45px; border-bottom:1px solid #333; font-size:20px}
+.masking a.close{position:absolute; right:5px; top:5px; cursor:pointer; height:15px; width:15px; color:#000}
+#tlist .twitter{background:url(images/twitter.png) no-repeat}
+#tlist .qq{background:url(images/qq.png) no-repeat}
+#tlist .sina{background:url(images/sina.png) no-repeat}
+#tlist .netease{background:url(images/netease.png) no-repeat}
+#tlist .sohu{background:url(images/sohu.png) no-repeat}
+#tlist .digu{background:url(images/digu.png) no-repeat}
+#tlist .douban{background:url(images/douban.png) no-repeat}
+#tlist .fanfou{background:url(images/fanfou.png) no-repeat}
+#tlist .renjian{background:url(images/renjian.png) no-repeat}
+#tlist .zuosa{background:url(images/zuosa.png) no-repeat}
+#tlist .ms9911{background:url(images/ms9911.png) no-repeat}
+#tlist .follow5{background:url(images/follow5.png) no-repeat}
+#tlist a{display:inline-block; margin-right:7px; overflow:hidden; position:relative; vertical-align:middle; height:48px; width:48px; background-position:0px 0px; border:1px solid #A2D8DA}
+.bind b, #bind_twitter b, #bind_qq b, #bind_sina b, #bind_netease b, #bind_douban b{bottom:0px; right:0px; display:block; overflow:hidden; position:absolute; width:13px; height:13px; background:url(images/pass.png) no-repeat 0 0}
+.wrap a{text-decoration:none}
